@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a recent graduate passionate about frontend development, diving into the world of coding and design.<br>With a strong enthusiasm for technology, I’m dedicated to mastering the latest tools and frameworks.<br> I enjoy creating intuitive and engaging user interfaces.<br> My goal is to become an ace in frontend development, crafting seamless web experiences.<br> Excited for the journey ahead!
+I’m a recent graduate passionate about frontend development and Data Analyst, diving into the world of coding and design.<br>With a strong enthusiasm for technology, I’m dedicated to mastering the latest tools and frameworks.<br> I enjoy creating intuitive and engaging user interfaces.<br> My goal is to become an ace in frontend development, crafting seamless web experiences.<br> Excited for the journey ahead!
 
 
 ## 🌐 Socials:
